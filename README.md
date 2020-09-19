@@ -20,9 +20,9 @@ data = [
 ]
 ```
 ```Python
-import ltc
+import ltck
 
-tc = ltc('en', data) 
+tc = ltck('en', data) 
 
 tc.train(epochs=20, batch_size=8, model_name="commonQ_v1")
 
