@@ -10,16 +10,16 @@ def readme():
         return f.read()
 
 
-setup(name='ltc', version='0.1.0',
+setup(name='ltck', version='0.1.0',
       author='Mohamed Mahrous',
       author_email='m.mahrous.94@gmail.com',
       url='https://github.com/lingorithm/lim',
       license='MIT',
-      description="Lingorithm Text Classification",
+      description="Lingorithm Text Classification Kit",
       long_description=readme(),
       long_description_content_type='text/markdown',
-      package_dir={'ltc': 'ltc', },
-      packages=['ltc'],
+      package_dir={'ltck': 'ltck', },
+      packages=['ltck'],
       install_requires=[
           'llck'
       ],
