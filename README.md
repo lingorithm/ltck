@@ -3,10 +3,10 @@ This package is the core function for any NLP operation or pacakge used by lingo
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install lim.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ltck.
 
 ```bash
-pip install lim
+pip install ltck
 ```
 
 # Usage
