@@ -10,7 +10,7 @@ def readme():
         return f.read()
 
 
-setup(name='ltck', version='0.1.0',
+setup(name='ltck', version='0.1.1',
       author='Mohamed Mahrous',
       author_email='m.mahrous.94@gmail.com',
       url='https://github.com/lingorithm/lim',
